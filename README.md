@@ -1,4 +1,4 @@
-## Olá, eu sou o Cláudio! ^^
+# Desenvolvedor Full-Stack React, NodeJS! ^^
 
 <div align="center">
   <a href="https://www.linkedin.com/in/claudiocassimiro/">
